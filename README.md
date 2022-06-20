@@ -11,16 +11,20 @@ This is second line<hr/>
 #### Sumaiya Tasnim
 ##### Sumaiya Tasnim
 ###### Sumaiya Tasnim
+
+</br>
 ### Paragraph:
 <p>This is sumaiya tasnim. I am 20 years old. I studied at TMSS Engineering College</p>
 
 
+  </br>
   
 ### Italic text:
 _This is an italic text_
+</br>
 ### Strong or Bold Text:  
 
-__This is an italic text__
+__This is a Bold text__
 
 ### StrikeThrough:
 <del>this is</del>  
@@ -71,12 +75,15 @@ console.log(`hello`)
 - item1
   -  item2
   -  item3
+  -  
+  -  </br>
   
   ### Task List
   -[x] Task1  
   -[x] Task1  
   -[] Task1 
 
+</br>
 
    ### markdown link  syntex
    [GoogleLink](www.google.com)
